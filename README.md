@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Some Images
+### Landing Page
+![image](https://github.com/anantnipunge/food_truck/assets/82041920/091d69b1-bc91-4c64-8d85-32f9d55b4a07)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
